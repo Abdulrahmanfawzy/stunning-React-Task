@@ -12,7 +12,7 @@ https://drive.google.com/file/d/14q5AvZjA_HIg3k7b9kv40VPFwj3BEr0l/view?usp=shari
 ---
 
 ## 📸 Preview
-![Hero Section Screenshot](./public/screenshot.png)
+![Hero Section Screenshot](./public/stunning.png)
 
 ---
 
